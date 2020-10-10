@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.5.2"
   },
   "dependencies": {
     "hast-util-select": "^2.1.0",
